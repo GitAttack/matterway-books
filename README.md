@@ -1,7 +1,10 @@
 # matterway-books
 
-'npm install'
+'npm install' to install dependencies
 and
 'npm start' to launch
 
-After 'npm install', you can use the quick_launch.cmd file for easy launch
+You can use 'quick_setup.cmd' to install dependencies
+And then 'quick_launch.cmd' for easy launch
+
+*make sure you extracted the files before running the cmd files*
