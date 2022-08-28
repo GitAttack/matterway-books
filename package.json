@@ -1,0 +1,24 @@
+{
+  "name": "matterway-books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitAttack/matterway-books.git"
+  },
+  "author": "R B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitAttack/matterway-books/issues"
+  },
+  "homepage": "https://github.com/GitAttack/matterway-books#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^16.2.0"
+  }
+}
