@@ -8,7 +8,7 @@ let page
     const browser = await puppeteer.launch({headless: true})
 
     try{
-    page = await browser.newPage();
+    page = await browser.newPage()
 
     const genres = await getGenres()
 
